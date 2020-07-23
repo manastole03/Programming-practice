@@ -1,6 +1,6 @@
 # Programming-practice
-1.Even odd\n
-2.ASCII code\n
-3.Vowels and consonants\n
-4.Addition, subtraction, multiplication, division\n
-5.Swapping of numbers\n
+1.Even odd
+2.ASCII code
+3.Vowels and consonants
+4.Addition, subtraction, multiplication, division
+5.Swapping of numbers
