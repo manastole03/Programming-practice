@@ -1,5 +1,5 @@
 # Programming-practice
-###### PYTHON
+###### PYTHON CODES
 ```
 1.Even odd
 2.ASCII code
