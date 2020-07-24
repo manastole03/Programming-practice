@@ -7,7 +7,7 @@
 4.Addition, subtraction, multiplication, division
 5.Swapping of numbers
 ```
-# Java Codes
+##### Java Codes
 ```
 1.Even odd
 2.ASCII code
