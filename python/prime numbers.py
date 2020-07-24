@@ -1,3 +1,5 @@
+# To check whether the number is prime or not 
+
 num = int(input("Enter a number: "))
 
 if num > 1:
