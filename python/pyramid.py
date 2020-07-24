@@ -1,14 +1,14 @@
 # To create a star pyramid (*)
 
-num = int(input("Enter a number: "))
+def pattern(n):
+    k = 2 * n - 2
+    for i in range(0, n):
+        for j in range(0, k):
+            print(end=" ")
+        k = k - 1
+        for j in range(0, i + 1):
+            print("*", end=" ")
+        print("\r")
 
-if num > 1:
-    for i in range(2, num):
-        if (num % i) == 0:
-            print(num, "is not a prime number")
-            break
-    else:
-        print(num, "is a prime number")
-
-else:
-    print(num, "is not a prime number")
+rows=int(input('enter the number of rows : '))
+pattern(rows)
