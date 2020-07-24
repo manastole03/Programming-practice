@@ -12,8 +12,8 @@
 9. Finding ou the largest number
 10. To find roots of quadratic equations
 11. Star(*) pyramid
-12. Left Star(*) pyramid
-13. Right Star(*) pyramid
+12. Left half Star(*) pyramid
+13. Right half Star(*) pyramid
 14. Upside down Star(*) pyramid
 ```
 ##### Java Codes
