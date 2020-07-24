@@ -1,4 +1,5 @@
-#fibonacci
+#To get the fibonacci series
+
 nterms = int(input("How many terms? "))
 
 # first two terms
