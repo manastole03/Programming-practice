@@ -1,4 +1,4 @@
-# To create a star pyramid (*)
+# To create a star(*) pyramid 
 
 def pattern(n):
     k = 2 * n - 2
@@ -10,5 +10,5 @@ def pattern(n):
             print("*", end=" ")
         print("\r")
 
-rows=int(input('enter the number of rows : '))
-pattern(rows)
+n=int(input('enter the number of rows : '))
+pattern(n)
