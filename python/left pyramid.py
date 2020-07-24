@@ -1,4 +1,4 @@
-# To create left half pyramid (*)
+# To create left half star pyramid (*)
 
 def pattern(n):
     k = 2 * n - 2
