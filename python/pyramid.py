@@ -1,4 +1,4 @@
-# To create a pyramid (*)
+# To create a star pyramid (*)
 
 num = int(input("Enter a number: "))
 
