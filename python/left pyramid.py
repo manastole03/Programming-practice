@@ -1,4 +1,4 @@
-# To create left half star pyramid (*)
+# To create left half star(*) pyramid 
 
 def pattern(n):
     for i in range(0, n):
