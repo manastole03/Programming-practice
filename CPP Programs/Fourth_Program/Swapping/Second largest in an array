@@ -1,0 +1,44 @@
+#include <stdio.h>
+ 
+int main()
+{
+ 
+        int no, i, largest,second,temp;
+ 
+        printf("\n Enter the size of the array: ");
+        scanf("%d", &no);
+        int array[no];
+ 
+        
+ 
+        for (i = 0; i < no; i++)
+        {  
+		    printf("\n Enter the value : ", no); 
+            scanf("%d", &array[i]);
+        }
+ 
+        largest = array[0];
+        second = array[1];
+ 
+        
+            if (second > largest){
+            	temp=second;
+            	second=largest;
+            	largest=temp;
+			}
+			for(i=2;i<no;i++)
+			if(array[i]>largest){
+				second=largest;
+				largest=array[i];
+			}
+			else if(array[i]>second)
+			second=array[i];
+			
+		printf("            \n");
+		printf("First largest is %d  \n",largest);
+		printf("Second largest is %d \n",second);
+            
+       
+        return 0;
+ 
+}
