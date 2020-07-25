@@ -15,6 +15,8 @@
 12. Left half Star(*) pyramid
 13. Right half Star(*) pyramid
 14. Upside down Star(*) pyramid
+15. Number pyramid (2 differnt pattarns)
+16. Priority check for mathematical operators
 ```
 ##### Java Codes
 ```
