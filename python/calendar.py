@@ -18,4 +18,4 @@ while True:
             else:
                 print(calendar.month(y, m))
     except IndexError:
-        print('no such month exists')
+        print('no such month exists\nplease enter appropriate month below')
