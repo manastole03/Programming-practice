@@ -18,6 +18,9 @@
 15. Number pyramid (2 differnt pattarns)
 16. Priority check for mathematical operators
 17. To print the calendar of given year and month
+18. Swapping the position of the names
+19. List and tuple
+20. Display the file name with extension
 ```
 ##### Java Codes
 ```
