@@ -1,1 +1,30 @@
+//Problem-staement
+//1.Create a class named 'Student' with String variable 'name' and integer variable 'roll_no'.
+//Assign the value of roll_no as '2' and that of nameas "John" by creating an object of the class Student.
 
+package myAllJavaProjects;
+import java.io.*;
+import java.util.*;
+
+
+public class Student 
+{
+	public static class student1
+	{
+		String name;
+		int roll_no;
+		public student1(String name,int roll_no)
+		{
+			this.name=name;
+			this.roll_no=roll_no;
+		}
+
+	}
+	public static void main(String[]args)
+	{
+
+				student1 s = new student1("manas",6);
+
+				System.out.print("Name of the student : "+s.name+"Roll number is : "+s.roll_no);
+	}
+}
