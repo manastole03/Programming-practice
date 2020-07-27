@@ -1,4 +1,4 @@
-a = input('Enter a character which contains two letters : ')
+a = input('Enter a word which contains two characters : ')
 b = a[0]
 c = a[-1]
 count = 0
