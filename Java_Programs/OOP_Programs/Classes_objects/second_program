@@ -1,0 +1,57 @@
+//Problem-statement
+//2.Assign and print the roll number, phone number and address of two students 
+//having names "Sam" and "John" respectively by creating two objects of class 'Student'.
+
+package myAllJavaProjects;
+import java.util.*;
+import java.io.*;
+
+
+public class Class_Object
+{
+	public static class student
+	{	
+		String name;
+		int roll_no;
+		int phone_number;
+		String address;
+		public student (String name,int roll_no,int phone_number,String address)
+		{
+			this.name=name;
+			this.roll_no=roll_no;
+			this.phone_number=phone_number;
+			this.address=address;
+			
+		}
+		/*public String getName() 
+	    { 
+	        return name; 
+	    } 
+	  
+	    // method 2 
+	    public int getroll_no() 
+	    { 
+	        return roll_no; 
+	    } 
+	  
+	    // method 3 
+	    public int getphone_number() 
+	    { 
+	        return phone_number; 
+	    } 
+	  
+	    // method 4 
+	    public String getaddress() 
+	    { 
+	        return address; 
+	    } */
+	
+	}
+	public static void main(String[] args) 
+	{
+	    	student my = new student("manas",9,76867,"punee");
+	    	System.out.print("name:"+my.name+"roll_no :"+my.roll_no+"phone_no:"+my.phone_number+"address:"+my.address);
+
+    }
+	   
+}
