@@ -17,6 +17,7 @@
 14. Upside down Star(*) pyramid
 15. Number pyramid (2 differnt pattarns)
 16. Priority check for mathematical operators
+17. To print the calendar of given year and month
 ```
 ##### Java Codes
 ```
