@@ -21,6 +21,11 @@
 18. Swapping the position of the names
 19. List and tuple
 20. Display the file name with extension
+21. Create class with class objects
+22. Create class with constructor with parameters
+23. Create class with constructor and perform some operations
+24. Create class with constructor without parameters
+25. Create class with constructor which returns parameters to the constructor
 ```
 ##### Java Codes
 ```
