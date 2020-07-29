@@ -26,6 +26,9 @@
 23. Create class with constructor and perform some operations
 24. Create class with constructor without parameters
 25. Create class with constructor which returns parameters to the constructor
+26. Create class employees
+27. Create class rectangle to find area
+28. Create class to add distances(inch and feet)
 ```
 ##### Java Codes
 ```
