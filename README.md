@@ -29,6 +29,8 @@
 26. Create class employees
 27. Create class rectangle to find area
 28. Create class to add distances(inch and feet)
+29. Create class for adding complex numbers
+30. Create class for finding the average
 ```
 ##### Java Codes
 ```
