@@ -8,7 +8,7 @@ class planet{
 		System.out.println("Name of planet- "+name+" \nDistance from sun is- "+disFromSun+" million km "+" \nrelative gravity- "+relativegr+" m/s2");
 	}
 }
-public class s {
+public class palnetEM {
   public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter e or m : ");
