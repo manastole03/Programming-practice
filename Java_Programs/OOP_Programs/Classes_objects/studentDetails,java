@@ -1,0 +1,37 @@
+import java.util.*;
+import java.io.*;
+import java.util.Scanner;
+class stu{
+	String FirstName,LastName,Major;
+	int classyr;
+	public void student() {
+		System.out.println("First Name- "+FirstName+" \nLast Name- "+LastName+" \nclass year- "+classyr+"th \nMajor- "+Major);
+	}
+}
+public class f {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter j for Jhon or r for Rob : ");
+		char a= sc.next().charAt(0);
+	stu jhon=new stu();
+	stu rob=new stu();
+	jhon.classyr=12;
+	jhon.FirstName="Jhon";
+	jhon.LastName="Roy";
+	jhon.Major="Mathematics";
+	rob.classyr=11;
+	rob.FirstName="Robert";
+	rob.LastName="Styles";
+	rob.Major="Biology";
+	switch (a) {
+	case 'j':
+		jhon.student();
+		break;
+	case 'r':
+		rob.student();
+		break;
+	default :
+		System.out.println("you entered wrong keyword");
+	}
+}
+}
