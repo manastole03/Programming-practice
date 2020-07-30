@@ -8,7 +8,7 @@ class stu{
 		System.out.println("First Name- "+FirstName+" \nLast Name- "+LastName+" \nclass year- "+classyr+"th \nMajor- "+Major);
 	}
 }
-public class f {
+public class studentDetails {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter j for Jhon or r for Rob : ");
