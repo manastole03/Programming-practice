@@ -32,6 +32,11 @@
 29. Create class for adding complex numbers
 30. Create class for finding the average
 31. Create class employee and perform operations on data
+32. Create class bank
+33. Create class students
+34. Create class airline ticket
+
+
 ```
 ##### Java Codes
 ```
