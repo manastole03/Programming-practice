@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-public class farr {
+public class inputArr {
   public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter 10 elements ");
