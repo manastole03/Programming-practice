@@ -1,6 +1,6 @@
 from array import *
 a = array('i',[])
-for i in range(5):
+for i in range(20):
     s =int(input('Enter no: '))
     a.append(s)
 min =0
