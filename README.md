@@ -21,21 +21,8 @@
 18. Swapping the position of the names
 19. List and tuple
 20. Display the file name with extension
-21. Create class with class objects
-22. Create class with constructor with parameters
-23. Create class with constructor and perform some operations
-24. Create class with constructor without parameters
-25. Create class with constructor which returns parameters to the constructor
-26. Create class employees
-27. Create class rectangle to find area
-28. Create class to add distances(inch and feet)
-29. Create class for adding complex numbers
-30. Create class for finding the average
-31. Create class employee and perform operations on data
-32. Create class bank
-33. Create class students
-34. Create class airline ticket
-
+21. Class and object codes
+22. Array codes
 
 ```
 ##### Java Codes
