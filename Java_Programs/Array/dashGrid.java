@@ -5,7 +5,6 @@ public class dash_grid {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("enter any number: ");
 		int n=sc.nextInt();
-		int a[]=new int[n];
 		System.out.println("Printing output...");
 		for(int i=0;i<n;i++) {
 			for(int j=0;j<n;j++) {
