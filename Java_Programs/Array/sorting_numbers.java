@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-public class recu {
+public class sorting_num {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("enter any number: ");
