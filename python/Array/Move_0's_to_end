@@ -1,0 +1,15 @@
+array=[]
+n=int(input('How many elements u want in array: '))
+for i in range(n):
+    f= int(input('Enter no: '))
+    array.append(f)
+print('Entered array: ',array)
+cnt=0
+for i in array:
+    if i == 0:
+        array.remove(i)
+        cnt+=1
+for i in range(cnt):
+    array.insert(len(array),0)
+print('Array after sort-',array)
+        
