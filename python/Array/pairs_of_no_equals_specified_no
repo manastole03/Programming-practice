@@ -1,0 +1,17 @@
+array=[]
+n=int(input('How many elements u want in array: '))
+for i in range(n):
+    f= int(input('Enter no: '))
+    array.append(f)
+print('Entered array: ',array)
+sum1=int(input('Enter specified no which is addition of two no from array items: '))
+j=0
+f=[]
+for i in range(n):
+    for j in range(n):
+        if (array[j]+array[i]==sum1):
+            print('pair of addition are: ({},{})'.format(array[i],array[j]))
+            break
+    
+else:
+    print('No pair found!')
