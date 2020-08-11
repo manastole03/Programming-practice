@@ -3,7 +3,7 @@ n=int(input('How many elements u want in array: '))
 for i in range(n):
     f= int(input('Enter no: '))
     array.append(f)
-print('Enteredarray: ',array)
+print('Entered array: ',array)
 mx=max(array)
 mn=min(array)
 array.remove(mn)
