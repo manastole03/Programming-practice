@@ -4,9 +4,9 @@ public class noOfEvenAndOdd {
 	
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the size of matrix: ");
+		System.out.println("Enter the size array: ");
 		int n=sc.nextInt();
-		System.out.println("Enter elements of first matrix: ");
+		System.out.println("Enter elements of array: ");
 		int a[]=new int[n];
 		for (int i=0;i<n;i++ ) {
 			a[i]=sc.nextInt();
