@@ -6,6 +6,6 @@ public class concatStrings {
 		String b="Python Exercise";
 		System.out.println("String 1: "+a);
 		System.out.println("String 2: "+b);
-		System.out.println("The concatenated string "+a.concat(" "+b));
+		System.out.println("The concatenated string: "+a.concat(" "+b));
 	}
 }
