@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-public class unicode {
+public class unicodeAt {
 	public static void main(String[] args) {
 		String a="website.com";
 		System.out.println("Original string: "+a);
