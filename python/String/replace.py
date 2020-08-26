@@ -1,13 +1,9 @@
-# Write a Python program to count the number of characters (character frequency) in a string.
+# Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself. 
 
 
 inp=input('enter the string: ')
-dict={}
-for i in inp :
-    keys = dict.keys()
-    if i in keys:
-        dict[i]+=1
-    else:
-        dict[i]=1
+char = inp[0]
+inp = inp.replace(char, '$')
+inp = char + inp[1:]
+print(inp)
 
-print(dict)
